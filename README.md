@@ -10,4 +10,4 @@
 - 📫 How to reach me: info@dastitv.de
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If only God knows how your Code works, it sucks!
-
+- 📫 More Information about me: https://gitlab.com/TheRealPeterGriffin
